@@ -1,0 +1,25 @@
+{
+    "config": {
+        "abort": {
+            "already_configured": "[%key:common::config_flow::abort::already_configured_device%]"
+        },
+        "error": {
+            "invalid_sink_id": "Invalid password",
+            "invalid_input_id": "Only one integration can be created, please delete existing integrations before creation",
+            "unknown": "[%key:common::config_flow::error::unknown%]"
+        },
+        "step": {
+            "user": {
+                "title": "gateway bg96",
+                "description": "set gateway bg96 parameter\n",
+                "data": {
+                    "name": "Ip:",
+		    "sink": "SSID:",
+		    "user": "User:",
+		    "password": "Password:(length: 1 ~ 63)",
+		    "apn": "Apn"
+                }
+            }
+        }
+    }
+}

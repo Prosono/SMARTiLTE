@@ -1,0 +1,15 @@
+{
+  "domain": "dusunbg96",
+  "name": "Gateway BG96",
+  "version": "1.0.5",
+  "config_flow": true,
+  "documentation": "",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@zengzisheng"
+  ]
+}
