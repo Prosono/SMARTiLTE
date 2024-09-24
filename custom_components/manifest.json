@@ -1,7 +1,7 @@
 {
   "domain": "dusunbg96",
   "name": "Gateway BG96",
-  "version": "1.0.5",
+  "version": "1.0.0",
   "config_flow": true,
   "documentation": "",
   "requirements": [],
@@ -10,6 +10,6 @@
   "homekit": {},
   "dependencies": [],
   "codeowners": [
-    "@zengzisheng"
+    "@prosono"
   ]
 }
